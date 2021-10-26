@@ -1,0 +1,10 @@
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/PolychitsaApplication.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/service/TodoService.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/entity/UserEntity.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/model/Todo.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/model/User.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/repositories/TodoRepo.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/repositories/UserRepo.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/controller/UserController.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/entity/TodoEntity.java
+/home/battle-in/proj/java/polychitsa/src/main/java/com/example/polychitsa/controller/TodoController.java
